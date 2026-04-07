@@ -1,1 +1,5 @@
-17,389 registros horarios y 731 diarios (2011-2012). Variables: temporada, clima, temperatura, humedad, viento. Targets: casual, registered, cnt.
+DESCRIPCIÓN DEL DATASET:
+- 17,389 registros, 17 columnas, cero nulos 
+- Se eliminan: instant (índice), dteday (ya está en yr/mnth/weekday), casual y registered (data leakage —suman exactamente cnt)
+- Target: cnt — total de alquileres por hora
+-Columna más importante: hr (hora del día), con picos clarísimos a las 8am y 17-18h

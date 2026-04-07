@@ -1,5 +1,0 @@
-Clasificación con Nhanes:
-En este caso lo que se es saber se logra predecir el ratio de pobreza se puede entender mejor el riesgo de desnutrición o falta de acceso a medicina.
-Binarización: Para evitar estar con datos dispersos y tener, po así decirlo o "si" o "no", ya que una clasificación busca eso, es o no es.
-Usamos modelo personalizdo con fc1 y 2 y relu, relu ayuda a predecir de manera más certera los datos, se encarga de encontrar las curvas en el modelo.
-Con fit() podemos ver el "accuracy" en este caso obtuvimos un valor de 83,54%

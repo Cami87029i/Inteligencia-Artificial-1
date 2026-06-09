@@ -1,0 +1,1 @@
+{"input_dim": 7, "output_dim": 7, "features_kmeans": ["Venta_Cafe", "Venta_Bread", "Venta_Pastry", "Venta_Cookies", "Venta_Cake", "Venta_Muffin", "Venta_Medialuna"], "nombres_productos": ["Caf\u00e9s y Bebidas", "Panes / Baguettes", "Masas / Croissants", "Galletas / Cookies", "Tortas / Porciones", "Muffins / Magdalenas", "Medialunas / Alfajores"], "mejor_k": 2}
